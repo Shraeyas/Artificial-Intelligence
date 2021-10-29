@@ -10,7 +10,8 @@ Artificial-Intelligence
 │       │   test.png
 |
 └───Convolution-Neural-Networks
-│   │   Alex-Net.ipynb
+│   │   AlexNet.ipynb
+│   │   LeNet-5.ipynb
 │
 └───Deep-Learning
 │   │   Multinomial Naive Bayes
@@ -22,6 +23,6 @@ Artificial-Intelligence
 │ 
 └───Machine Learning
 │   │   Multinomial Naive Bayes
-│   
+│
 
 ```
