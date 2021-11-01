@@ -8,7 +8,7 @@ Artificial-Intelligence
 │   └───images
 │       │   lena.png
 │       │   test.png
-|
+│
 └───Convolution-Neural-Networks
 │   │   AlexNet.ipynb
 │   │   LeNet-5.ipynb
@@ -19,10 +19,11 @@ Artificial-Intelligence
 │   └───datasets
 │       │   test_catvnoncat.h5
 │       │   train_catvnoncat.h5
-|       |   fruits_naive_bayes.csv
+│       │   fruits_naive_bayes.csv
 │ 
 └───Machine Learning
 │   │   Multinomial Naive Bayes
+│   │   Gaussian Naive Bayes
 │
 
 ```
