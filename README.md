@@ -5,21 +5,16 @@ Artificial-Intelligence
 └───Computer-Vision
 │   │   Fourier-Transform.ipynb
 │   │   HoughTransformFromScratch.ipynb
-│   └───images
-│       │   lena.png
-│       │   test.png
 │
 └───Convolution-Neural-Networks
 │   │   AlexNet.ipynb
 │   │   LeNet-5.ipynb
 │
 └───Deep-Learning
-│   │   Multinomial Naive Bayes
-│   │
-│   └───datasets
-│       │   test_catvnoncat.h5
-│       │   train_catvnoncat.h5
-│       │   fruits_naive_bayes.csv
+│   │   Exponentially Weighted Averages
+│   │   Gradient Descent
+│   │   Logistic Regression
+│   │   Vectorization Run Time Comparison
 │ 
 └───Machine Learning
 │   │   Multinomial Naive Bayes
